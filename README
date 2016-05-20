@@ -1,2 +1,9 @@
 THIS DIRECTORY POINTS TO THE GITHUB REPOSITORY FOR AGILE CRM PROJECTS.
+COMMIT COMMANDS --->
+
+
+git add README
+git commit -m "some_message"
+git remote add origin https://github.com/user_name/Mytest.git
+git push origin master
 
